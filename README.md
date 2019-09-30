@@ -17,16 +17,26 @@ Build a model that determines whether or not the patient's symptoms indicate tha
 
 http://bit.ly/hypothyroid_data
 
-1.4 Experimental design taken¶
+1.4 Experimental design taken
+
 Perform EDA
+
 Perform Feature Engineering
+
 Build Models:
+
 Part1: Decision Tree
+
 Random Forest
+
 AdaBoost
+
 Gradient Boosted Tree
+
 Part 2: Support Vector Machine(SVM)
+
 Perform Hyperparameter Tuning in our Models
+
 Compute accuarcy of each model and the confusion matrix
 
 
